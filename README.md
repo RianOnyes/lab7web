@@ -228,8 +228,29 @@ Menambahkan tombol logout
 ![HASIL 3](https://github.com/user-attachments/assets/6879cf3e-cbf4-427f-bef8-2ae4f400d13c)
 
 ![HASIL 4](https://github.com/user-attachments/assets/bb3b89f4-6218-406d-9678-1f9f8a475816)
+--------------------------------------------------------------------------------
 
+<div align="center">
+ <h1>Paginatin Dan Pencarian</h1>
+  <p>PRAKTIKUM 5</p>
+</div>
 
+# 1. Membuat Pagination Dan Pencarian
+![01](https://github.com/user-attachments/assets/56e25446-db4c-4844-a9ec-9cefb9a5d40c)
+<img width="960" alt="02" src="https://github.com/user-attachments/assets/8c10ef0e-4ecd-450b-8510-6fedcdd2d6f3" />
+![03](https://github.com/user-attachments/assets/8414cb2a-0221-48ff-87c0-74ebd61eda7c)
+
+# 2. Membuat pencarian dan memodifikasi admin_index untuk menambahkan fitur pencarian serta link pagination
+![04](https://github.com/user-attachments/assets/e9c81614-687a-4165-867b-a1a564b731e4)
+![05](https://github.com/user-attachments/assets/47cdea82-decc-4c56-a083-04fd29531984)
+![06](https://github.com/user-attachments/assets/0f2959b5-6e94-4122-a3b7-afc10ff37d61)
+
+# 3. Menambahkan Fitur Pencarian
+
+![07](https://github.com/user-attachments/assets/13a551be-c68f-4d0f-bfde-778252946095)
+
+# HASIL AKHIR
+![08](https://github.com/user-attachments/assets/f6e12249-f0c6-469f-b957-f0afd30feadc)
 
 
 
