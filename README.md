@@ -259,19 +259,28 @@ Menambahkan tombol logout
   <p>PRAKTIKUM 6</p>
 </div>
 
-# 1. Mmodifikasi Method add() Pada Controller Artikel
+# 1. Memodifikasi Method add() Pada Controller Artikel
 <img width="960" alt="01" src="https://github.com/user-attachments/assets/e8645521-689d-40d8-9a85-d739d0713e59" />
 
 # 2. Memodifikasi File Form_add.php
 <img width="960" alt="02" src="https://github.com/user-attachments/assets/102cfa96-a3c0-4e26-a87b-3ce02ba7efb6" />
 
+# 3. Testing
+
+![HASIL 1](https://github.com/user-attachments/assets/c92d3d42-f7df-493d-8cae-d93a2eae9925)
 
 
+![HASIL 2](https://github.com/user-attachments/assets/7b2480c1-95df-415e-8e47-4e9fa47a43a3)
 
 
+![HASIL 3](https://github.com/user-attachments/assets/0d452f1b-6513-43d7-8681-5d93149ea137)
 
+--------------------------------------------------------------------------------
 
-
+<div align="center">
+ <h1>Relasi Table dan Query Builder
+  <p>PRAKTIKUM 7</p>
+</div>
 
 
 
