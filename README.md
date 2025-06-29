@@ -2,9 +2,10 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-## Praktikum 1: 
-
-Langkah-langkah Praktikum
+<div align="center">
+ <h1>PEMROGRAMAN WEB 2</h1>
+  <p>PRAKTIKUM 1</p>
+</div>
 
 # 1. Mengaktifkan ekstensi PHP
 
