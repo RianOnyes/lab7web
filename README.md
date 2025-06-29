@@ -121,6 +121,8 @@ Langkah-langkah Praktikum
 ![Hasil2](https://github.com/user-attachments/assets/a31311c6-33f3-4865-9a10-84dc555d46a3)
 ![Hasil3](https://github.com/user-attachments/assets/ff7856ef-d2ca-4729-8e7e-be7df30aaef1)
 
+--------------------------------------------------------------------------------
+
 <div align="center">
  <h1>View Layout Dan View Cell</h1>
   <p>PRAKTIKUM 3</p>
@@ -161,28 +163,43 @@ Modifikasi method render() di class ArtikelTerkini untuk menerima parameter kate
 ![HASIL](https://github.com/user-attachments/assets/d1124387-d2c2-45d5-8837-a928e4ae0b55)
 
 -----------------------------------------------------------------------
- # PRAKTIKUM 4
+ <div align="center">
+ <h1>Modul Login</h1>
+  <p>PRAKTIKUM 4</p>
+</div>
+
  
  # Langkah-langkah Praktikum
  
 # 1. Membuat Tabel User
 
+![01](https://github.com/user-attachments/assets/3cfdd5bb-0b27-40f2-83a7-f32d7d681d72)
+
 # 2. Membuat Model User
 Membuat file UserModel.php 
 
+![02](https://github.com/user-attachments/assets/24eab6cf-c7d5-4a80-9c73-822818c04ab3)
 
 # 3. Membuat Controller
 Membuat file User.php dengan method login dan logout 
 
+![03](https://github.com/user-attachments/assets/437bde13-9e08-4f94-be47-a8c3e907b6da)
+
 
 # 4. Membuat View Login
 
+![04](https://github.com/user-attachments/assets/c82e07b8-b813-4c82-b8af-937781896a64)
+![05](https://github.com/user-attachments/assets/5e025100-03ba-4b52-8e81-6bd8e7330f03)
 
 # 5. Tampilan Seeder
 
+![06](https://github.com/user-attachments/assets/9226346a-94f3-47ae-9e68-e1db518e3b2c)
+![07](https://github.com/user-attachments/assets/3a9020e6-6b42-424f-96bb-f6f5a647c016)
+![08](https://github.com/user-attachments/assets/19d3700a-d0c6-486b-8b9c-0d7c789128b8)
 
 # 6. Menambahkan file Auth.php di folder Filter
 
+![09](https://github.com/user-attachments/assets/4eafdc4f-0a68-4428-8324-995b54a0cfe2)
 
 # 7. Menambahkan Fungsi Logout
 Menambahkan tombol logout 
