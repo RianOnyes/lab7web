@@ -252,6 +252,18 @@ Menambahkan tombol logout
 # HASIL AKHIR
 ![08](https://github.com/user-attachments/assets/f6e12249-f0c6-469f-b957-f0afd30feadc)
 
+---------------------------------------------------------------------------
+
+<div align="center">
+ <h1>Menambahkan Gambar</h1>
+  <p>PRAKTIKUM 6</p>
+</div>
+
+# 1. Mmodifikasi Method add() Pada Controller Artikel
+<img width="960" alt="01" src="https://github.com/user-attachments/assets/e8645521-689d-40d8-9a85-d739d0713e59" />
+
+# 2. Memodifikasi File Form_add.php
+<img width="960" alt="02" src="https://github.com/user-attachments/assets/102cfa96-a3c0-4e26-a87b-3ce02ba7efb6" />
 
 
 
