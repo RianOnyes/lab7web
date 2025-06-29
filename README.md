@@ -1,11 +1,12 @@
+![GitHub stars](https://img.shields.io/github/stars/username/repo)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+
 ## Praktikum 1: 
 
 Langkah-langkah Praktikum
 
 # 1. Mengaktifkan ekstensi PHP
-
-
-
 
 # 2. Menjalankan CLI
 
