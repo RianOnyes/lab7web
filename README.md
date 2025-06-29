@@ -204,12 +204,44 @@ Membuat file User.php dengan method login dan logout
 # 7. Menambahkan Fungsi Logout
 Menambahkan tombol logout 
 
+![10](https://github.com/user-attachments/assets/b37f5822-42c3-4106-af75-de110e0a76d1)
+
 # 8. Menambahkan Halaman Register 
+
+![11](https://github.com/user-attachments/assets/25b14a9e-2cc9-477e-bf86-4e085c01330c)
+![12](https://github.com/user-attachments/assets/3c33e244-5c5b-4c8e-adc8-7c5bb92b291c)
+![13](https://github.com/user-attachments/assets/5b2f070a-3f8c-41e0-b486-4975f563117a)
 
 # 9. Menambahkan Dashboard Admin
 
+![14](https://github.com/user-attachments/assets/83d9fa0c-4d86-471d-9b10-3c9ab91db911)
+
 # 10. Tampilan CSS
 
-
+![CSS](https://github.com/user-attachments/assets/0ee6c354-0463-4df0-8581-e874ffd93673)
 
 # HASIL AKHIR
+![HASIL 1](https://github.com/user-attachments/assets/2dd50660-86a8-4086-87d0-5ae808adab2d)
+
+![HASIL 2](https://github.com/user-attachments/assets/2480ec84-cd66-457a-9055-8405c401a88a)
+
+![HASIL 3](https://github.com/user-attachments/assets/6879cf3e-cbf4-427f-bef8-2ae4f400d13c)
+
+![HASIL 4](https://github.com/user-attachments/assets/bb3b89f4-6218-406d-9678-1f9f8a475816)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
