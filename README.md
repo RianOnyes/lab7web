@@ -8,17 +8,14 @@ Langkah-langkah Praktikum
 
 
 # 2. Menjalankan CLI
-![02](https://github.com/user-attachments/assets/7a4cb359-2cb0-4469-b704-611e341ec2a8)
-
 
 # 3. Instalisasi Codeigniter 
-![08](https://github.com/user-attachments/assets/3cfcef46-d3dd-4418-ae75-d788ecfc345c)
+
 
 # 4. Mengubah file env mennjadi .env
-![04](https://github.com/user-attachments/assets/26f8547d-90f2-486a-a3d0-55b7fa37100e)
 
 # 5. Menambahkan Route di Routes.php
-![05](https://github.com/user-attachments/assets/77383eb7-4fd8-4a6c-abe1-117327de6372)
+
 
 
 # 6. Membuat File page.php di dalam folder Controller
@@ -26,70 +23,59 @@ Membuat File page.php
 
 
 # 7. Membuat File about.php di view
-<img width="958" alt="08" src="https://github.com/user-attachments/assets/fdf80bf3-3e8e-49a7-bdd9-ba143b985883" />
+
 
 # 8. Layout CSS
-<img width="959" alt="11" src="https://github.com/user-attachments/assets/9f426bac-f098-4d77-aa6a-cf4723eb0df4" />
+
 
 ## 9. Hasil Praktikum 1
-![07](https://github.com/user-attachments/assets/49e6c334-84a6-46aa-9bc5-39cbb084e6e8)
 
--------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 # Praktikum 2:
 
 Langkah-langkah Praktikum
 
 # 1. Membuat database lab_ci4 melalui commandprompt
-![01](https://github.com/user-attachments/assets/e632627c-96be-4234-a3dc-6a443c2acb6d)
+
 
 # 2. Konfigurasi ke Database di file .env
-<img width="952" alt="02" src="https://github.com/user-attachments/assets/d7fded7c-69a3-453a-800b-609121105a1a" />
+
 
 # 3. Artikel.php
-<img width="959" alt="03" src="https://github.com/user-attachments/assets/10d2d3be-960f-4a6d-a131-c65b504c8144" />
+
 
 # 4. Membuat Artikel.php di Controller
-![04](https://github.com/user-attachments/assets/27695f32-437a-405e-8115-e18864a61113)
 
 # 5. Membuat View di folder Artikel dengan kata kunci index.php
-![04](https://github.com/user-attachments/assets/eb2a7306-ba20-4be4-aa8f-92865a1690e6)
+
 
 # 6. Menambahkan Data Artikel
-![06](https://github.com/user-attachments/assets/ab5d36d3-97d3-4346-a6d7-dd536a1e75c6)
 
 # 7. Menambahkan tampilan Detail Artikel dan membuat Routing
-<img width="899" alt="09" src="https://github.com/user-attachments/assets/0b58e100-457f-4f59-a73f-4f3ca96ccaa0" />
 
 # 8. Menambahkan Tampilan Menu Admin
-![12](https://github.com/user-attachments/assets/84549e28-5ea6-4260-9e40-384bbbd3283e)
 
 -------------------------------------------------------------------------
-![13](https://github.com/user-attachments/assets/19b841bd-6e1d-4fd6-b69a-4bcc624d9b34)
+
 
 -------------------------------------------------------------------------
-![11](https://github.com/user-attachments/assets/ab9ae71f-a420-4506-94c6-d77aa7e3cc8a)
+
 
 # 9. Menambahkan Data Artikel dan Membuat method add() dan file form_add.php
-![12](https://github.com/user-attachments/assets/fa194c8f-4503-407e-ab12-9e561b6c5f9a)
+
 
 # 10. Membuat method edit dan file form_edit.php
-![19](https://github.com/user-attachments/assets/63d4ce80-e781-448f-84aa-f26e2e9302ca)
 
 --------------------------------------------------------------------------
 
-![18](https://github.com/user-attachments/assets/4a214476-fbb0-404b-ad01-e3b2d9eab055)
 
 # Menambahkan CSS
-<img width="832" alt="21" src="https://github.com/user-attachments/assets/4bb117ed-7ea6-4520-9d0c-695c001305d3" />
+
 
 # Menambahkan Fitur upload Image
-<img width="878" alt="fitur" src="https://github.com/user-attachments/assets/f2382fe2-4619-457f-9792-37b0a226be2e" />
 
 # HASIL
-![Hasil 1](https://github.com/user-attachments/assets/7b4a9349-2ba4-4ca6-a3c0-722573dec406)
-![Hasil 2](https://github.com/user-attachments/assets/a24a5520-2c15-4d16-a628-6619ea209610)
-![Hasil 3](https://github.com/user-attachments/assets/10b2f89b-e488-42e1-a690-6688d1c371dd)
 
 
 # Praktikum 3: View Layout dan View Cell
@@ -97,25 +83,20 @@ Langkah-langkah Praktikum
 
 # 1. Membuat Layout Utama
 Membuat folder layout dan file main.php
-![1](https://github.com/user-attachments/assets/a868797a-0858-4b64-aec2-7d10c91de3bf)
 
 # 2. Mengubah file home.php, about.php, contact.php, index.php, detail.php untuk 
-![21](https://github.com/user-attachments/assets/ba66f42e-e1f5-4a65-b788-2951891c21a8)
 
 # 3. Menambahkan Tanggal pada Database
 Menambahkan kolom created_at pada tabel artikel
-![3](https://github.com/user-attachments/assets/9b73dc47-addf-4cf9-a574-a05067e26597)
 
 
 # 4. Membuat Class View Cell
-![5](https://github.com/user-attachments/assets/eb818c56-1314-4519-9a44-7d63885b250f)
 
 # 5. Ubah View Cell agar hanya menampilkan post dengan kategori tertentu.
 Modifikasi method render() di class ArtikelTerkini untuk menerima parameter kategori: 
-![63](https://github.com/user-attachments/assets/dc0b6973-ce70-4e90-b7ea-4c87b4f328e0)
 
 # HASIL AKHIR
-![ss3](https://github.com/user-attachments/assets/cfd8a701-d4e9-416a-aa43-937870a798d6)
+
 
 -----------------------------------------------------------------------
  # PRAKTIKUM 4
@@ -123,205 +104,33 @@ Modifikasi method render() di class ArtikelTerkini untuk menerima parameter kate
  # Langkah-langkah Praktikum
  
 # 1. Membuat Tabel User
-![1](https://github.com/user-attachments/assets/a46f9419-e4c9-417b-b02c-110450f7779b)
 
 # 2. Membuat Model User
 Membuat file UserModel.php 
-![2](https://github.com/user-attachments/assets/d1af8f91-e866-4c38-899a-2480adc6ccfa)
+
 
 # 3. Membuat Controller
 Membuat file User.php dengan method login dan logout 
-![3](https://github.com/user-attachments/assets/402303a0-9f4a-4b12-98fa-8227463e5068)
+
 
 # 4. Membuat View Login
-![41](https://github.com/user-attachments/assets/45a7d570-c095-4ab8-89c6-0330babc5dee)
-![42](https://github.com/user-attachments/assets/3be810ed-2f96-48dc-addc-6eac46ce873b)
+
 
 # 5. Tampilan Seeder
-![52](https://github.com/user-attachments/assets/50d9868e-798c-4a95-b71a-1a7509696bf2)
+
 
 # 6. Menambahkan file Auth.php di folder Filter
-![52](https://github.com/user-attachments/assets/1d9163e8-5dec-4c9b-8c1b-8eadf0bf08a1)
-![62](https://github.com/user-attachments/assets/6119e7ef-a341-4b2b-a863-7d2abea469b1)
+
 
 # 7. Menambahkan Fungsi Logout
 Menambahkan tombol logout 
-![71](https://github.com/user-attachments/assets/613f5674-e25d-4de2-b36b-412ad50a8909)
 
 # 8. Menambahkan Halaman Register 
-![im11](https://github.com/user-attachments/assets/075de3d2-0069-4943-b3c8-581f55ba25da)
-![im12](https://github.com/user-attachments/assets/11efa4e0-172e-43f1-b154-649bd695aa48)
-![im13](https://github.com/user-attachments/assets/3bf7672d-4895-447c-9580-3a80a6e7c556)
+
 # 9. Menambahkan Dashboard Admin
-![im21](https://github.com/user-attachments/assets/d35800a3-0abb-442a-a758-07773c6dfe5e)
-![im22](https://github.com/user-attachments/assets/7ab89733-7c18-4bbc-9810-872a3b5963a3)
-![im24](https://github.com/user-attachments/assets/2c561d8b-97f2-402a-858e-f4ff85426640)
 
 # 10. Tampilan CSS
-![im31](https://github.com/user-attachments/assets/a89cd455-897b-45fa-b685-bdeb1f259541)
+
 
 
 # HASIL AKHIR
-![Screenshot 2025-06-29 165156](https://github.com/user-attachments/assets/439be13b-584d-4c2f-9c88-132f2f5db805)
-![Screenshot 2025-06-29 165156](https://github.com/user-attachments/assets/4e7b540b-a556-4ff0-beeb-93ddc378095f)
-![SCREENSHOOT](https://github.com/user-attachments/assets/95d78c28-891c-4aac-9665-033ca6f24fdb)
-![SCREENSHOOT2](https://github.com/user-attachments/assets/df29c40d-9bf7-4c39-bf40-ef724f81408a)
-
-
-
-
-
-## Praktikum 1: 
-
-Langkah-langkah Praktikum
-
-# 1. Mengaktifkan ekstensi PHP
-<img width="646" alt="02" src="https://github.com/user-attachments/assets/3650dfb2-ef9d-4007-af69-06efa18689bd" />
-
-
-# 2. Menjalankan CLI
-![03](https://github.com/user-attachments/assets/ab22024b-b8a5-488e-ab5a-0b066694b42e)
-
-# 3. Instalisasi Codeigniter 
-<img width="938" alt="09" src="https://github.com/user-attachments/assets/a55e96ba-6eba-4081-b20a-85d1e55f7294" />
-
-# 4. Mengubah file env mennjadi .env
-![04](https://github.com/user-attachments/assets/318d074d-fdb2-4613-be67-8ca56688b4a6)
-
-# 5. Menambahkan Route di Routes.php
-![05](https://github.com/user-attachments/assets/6f0ba06a-8fa5-429f-8b7b-c0e2c2be1ad4)
-
-# 6. Membuat File page.php di dalam folder Controller
-Membuat File page.php
-![6](https://github.com/user-attachments/assets/64729ae0-b7b1-4396-ae45-c43c231b8150)
-
-# 7. Membuat File about.php di view
-<img width="958" alt="08" src="https://github.com/user-attachments/assets/fdf80bf3-3e8e-49a7-bdd9-ba143b985883" />
-
-# 8. Layout CSS
-<img width="959" alt="11" src="https://github.com/user-attachments/assets/9f426bac-f098-4d77-aa6a-cf4723eb0df4" />
-
-## 9. Hasil Praktikum 1
-![07](https://github.com/user-attachments/assets/49e6c334-84a6-46aa-9bc5-39cbb084e6e8)
-
--------------------------------------------------------------------------
-
-# Praktikum 2:
-
-Langkah-langkah Praktikum
-
-# 1. Membuat database lab_ci4 melalui commandprompt
-![01](https://github.com/user-attachments/assets/e632627c-96be-4234-a3dc-6a443c2acb6d)
-
-# 2. Konfigurasi ke Database di file .env
-<img width="952" alt="02" src="https://github.com/user-attachments/assets/d7fded7c-69a3-453a-800b-609121105a1a" />
-
-# 3. Artikel.php
-<img width="959" alt="03" src="https://github.com/user-attachments/assets/10d2d3be-960f-4a6d-a131-c65b504c8144" />
-
-# 4. Membuat Artikel.php di Controller
-![04](https://github.com/user-attachments/assets/27695f32-437a-405e-8115-e18864a61113)
-
-# 5. Membuat View di folder Artikel dengan kata kunci index.php
-![04](https://github.com/user-attachments/assets/eb2a7306-ba20-4be4-aa8f-92865a1690e6)
-
-# 6. Menambahkan Data Artikel
-![06](https://github.com/user-attachments/assets/ab5d36d3-97d3-4346-a6d7-dd536a1e75c6)
-
-# 7. Menambahkan tampilan Detail Artikel dan membuat Routing
-<img width="899" alt="09" src="https://github.com/user-attachments/assets/0b58e100-457f-4f59-a73f-4f3ca96ccaa0" />
-
-# 8. Menambahkan Tampilan Menu Admin
-![12](https://github.com/user-attachments/assets/84549e28-5ea6-4260-9e40-384bbbd3283e)
-
--------------------------------------------------------------------------
-![13](https://github.com/user-attachments/assets/19b841bd-6e1d-4fd6-b69a-4bcc624d9b34)
-
--------------------------------------------------------------------------
-![11](https://github.com/user-attachments/assets/ab9ae71f-a420-4506-94c6-d77aa7e3cc8a)
-
-# 9. Menambahkan Data Artikel dan Membuat method add() dan file form_add.php
-![12](https://github.com/user-attachments/assets/fa194c8f-4503-407e-ab12-9e561b6c5f9a)
-
-# 10. Membuat method edit dan file form_edit.php
-![19](https://github.com/user-attachments/assets/63d4ce80-e781-448f-84aa-f26e2e9302ca)
-
---------------------------------------------------------------------------
-
-![18](https://github.com/user-attachments/assets/4a214476-fbb0-404b-ad01-e3b2d9eab055)
-
-# Menambahkan CSS
-<img width="832" alt="21" src="https://github.com/user-attachments/assets/4bb117ed-7ea6-4520-9d0c-695c001305d3" />
-
-# Menambahkan Fitur upload Image
-<img width="878" alt="fitur" src="https://github.com/user-attachments/assets/f2382fe2-4619-457f-9792-37b0a226be2e" />
-
-# HASIL
-![Hasil 1](https://github.com/user-attachments/assets/7b4a9349-2ba4-4ca6-a3c0-722573dec406)
-![Hasil 2](https://github.com/user-attachments/assets/a24a5520-2c15-4d16-a628-6619ea209610)
-![Hasil 3](https://github.com/user-attachments/assets/10b2f89b-e488-42e1-a690-6688d1c371dd)
-------------------------------------------------------------------------------
-# Praktikum 3:
-
-# 1. Membuat Layout
-![1](https://github.com/user-attachments/assets/0d6a6522-0448-491f-a996-6f56944ae483)
-
-# 2. Mengubah file home.php, about.php, contact.php, index.php, detail.php untuk menggunakan layout baru
-![21](https://github.com/user-attachments/assets/f9221b9f-bc03-4e4c-ac51-ca9d030cef0b)
-![22](https://github.com/user-attachments/assets/c7014a4f-9437-4266-b760-48f6784e5780)
-
-# 3. Menambahkan Tanggal Di DataBase MySql
-![3](https://github.com/user-attachments/assets/fb75b7a3-ef8c-4fda-9123-dcbe47155514)
-
-# 4. Membuat View untuk View Cell
-![5](https://github.com/user-attachments/assets/9804e79e-8c60-4704-9c90-a56d422c6c89)
-
-    1. Apa manfaat utama dari penggunaan View Layout dalam pengembangan aplikasi?
-
-View Layout memiliki beberapa manfaat utama dalam pengembangan aplikasi:
-
-Konsistensi Visual View Layout memastikan tampilan yang seragam di seluruh aplikasi. Dengan menggunakan layout yang konsisten, pengguna mendapat pengalaman yang familiar dan mudah diprediksi saat berinteraksi dengan berbagai bagian aplikasi.
-
-Responsivitas Layout memungkinkan aplikasi beradaptasi dengan berbagai ukuran layar dan orientasi perangkat. Baik itu smartphone, tablet, atau desktop, view layout membantu elemen UI menyesuaikan posisi dan ukuran secara otomatis.
-
-Kemudahan Maintenance Ketika struktur layout terorganisir dengan baik, pengembang dapat dengan mudah melakukan perubahan, perbaikan bug, atau penambahan fitur tanpa mengganggu bagian lain dari aplikasi.
-
-Efisiensi Pengembangan Layout yang dapat digunakan kembali (reusable) menghemat waktu development. Template atau komponen layout yang sudah dibuat dapat dipakai di berbagai bagian aplikasi, mengurangi duplikasi kode.
-
-User Experience yang Optimal View layout membantu mengatur hierarki informasi dan alur navigasi yang logis, sehingga pengguna dapat dengan mudah menemukan dan menggunakan fitur-fitur aplikasi.
-
-Aksesibilitas Layout yang dirancang dengan baik mempertimbangkan kebutuhan aksesibilitas, memastikan aplikasi dapat digunakan oleh pengguna dengan berbagai kemampuan dan keterbatasan.
-
-Performance Struktur layout yang efisien dapat mengurangi overhead rendering dan meningkatkan performa aplikasi, terutama pada perangkat dengan spesifikasi terbatas.
-
-Apakah ada aspek tertentu dari View Layout yang ingin Anda pelajari lebih dalam?
-
-    2. Jelaskan perbedaan antara View Cell dan View biasa.
-
-Tujuan dan Fungsi
-View Cell dirancang khusus untuk menampilkan item individual dalam koleksi data seperti list, table, atau grid. Sementara View biasa adalah komponen UI umum yang dapat digunakan untuk berbagai keperluan tampilan.
-Konteks Penggunaan
-View Cell biasanya digunakan dalam konteks RecyclerView (Android), UITableView/UICollectionView (iOS), atau komponen list lainnya. View biasa dapat digunakan di mana saja dalam struktur layout aplikasi.
-
-
-# 4. Ubah View Cell agar hanya menampilkan post dengan kategori tertentu.
-![alt text](63.png)
-
-# HASIL AKHIR PRAKTIKUM
-![alt text](ss3.png)
-
-
-
-
-
-
-
-
-
-
-
- 
-
-#   l a b 7 w e b 
- 
- 
